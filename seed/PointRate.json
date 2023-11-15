@@ -1,0 +1,42 @@
+[
+{
+  "model": "uranaish.pointrate",
+  "pk": 1,
+  "fields": {
+    "message_send_point": 40,
+    "message_open_point": "1.0"
+  }
+},
+{
+  "model": "uranaish.pointrate",
+  "pk": 2,
+  "fields": {
+    "message_send_point": 40,
+    "message_open_point": "1.5"
+  }
+},
+{
+  "model": "uranaish.pointrate",
+  "pk": 3,
+  "fields": {
+    "message_send_point": 40,
+    "message_open_point": "2.0"
+  }
+},
+{
+  "model": "uranaish.pointrate",
+  "pk": 4,
+  "fields": {
+    "message_send_point": 40,
+    "message_open_point": "2.5"
+  }
+},
+{
+  "model": "uranaish.pointrate",
+  "pk": 5,
+  "fields": {
+    "message_send_point": 40,
+    "message_open_point": "3.0"
+  }
+}
+]
